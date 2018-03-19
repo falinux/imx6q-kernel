@@ -1,0 +1,19 @@
+================================================================================
+							BTDS KERNEL CHANGE LOG
+--------------------------------------------------------------------------------
+
+# KERNEL LOG: 2015-06-23
+
+	- PAD setting ECSPI5
+		-> arch/arm/mach-mx6/board-mx6dl_btds.h
+		-> arch/arm/mach-mx6/board-mx6q_btds.h
+
+#KERNEL LOG: 2015-07-08
+
+	- EIM register 설정 변경
+		>> arch/arm/mach-mx6/board-mx6q_btds.c
+
+#KERNEL LOG: 2015-11-10
+
+	- spi_imx_push_tr_count_enable
+		>> arch/arm/mach-mx6/board-mx6q_btds.c
